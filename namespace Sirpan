@@ -1,0 +1,32 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Sirpan
+{
+    /// <summary>
+    /// 建立属于自己的相应类或者接口等等
+    /// </summary>
+    #region 
+    public class Sirpan : MonoBehaviour
+    {
+        /// <summary>
+        /// 相应的字段
+        /// </summary>
+
+
+        /// <summary>
+        /// 相应的属性
+        /// </summary>
+
+
+        /// <summary>
+        /// 相应的方法
+        /// </summary>
+
+        /// <summary>
+        /// 相应的内部类等等
+        /// </summary>
+    }
+    #endregion
+}
